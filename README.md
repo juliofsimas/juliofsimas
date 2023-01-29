@@ -1,7 +1,5 @@
 ### Olá 👋
 
-<div>  
-  <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
 
 ### Hello everyone,
   
