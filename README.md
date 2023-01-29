@@ -3,7 +3,7 @@
 
 ### Hello everyone,
   
-I'm a beginner in the tech woeld, Living in Recife - Pernambuco.
+I'm a beginner in the tech world, Living in Recife - Pernambuco.
 I have worked at the same company since i started to work, first as a supply chain analist, and since 2023 i have worked as Businees partner IT.
 In 2022 i beagan to learn SQL and doing some taks, reports and Projets using T-SQL and Poewr BI, and i have plans to learn more and more.
 
