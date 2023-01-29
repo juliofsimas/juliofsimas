@@ -11,4 +11,4 @@ I have plans to learn more and more, begining this year that i will begin to sty
 I'm a shy person but love work in groups, and i love learn new things ans solve problens and puzzles.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/j%C3%BAlio-simas/)](https:/https://www.linkedin.com/in/j%C3%BAlio-simas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://[www.linkedin.com/in/j%C3%BAlio-simas/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BpmxZj9lvSUu%2FagbZQPgOiw%3D%3D))](https:/https://[www.linkedin.com/in/j%C3%BAlio-simas/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BpmxZj9lvSUu%2FagbZQPgOiw%3D%3D))
