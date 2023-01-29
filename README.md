@@ -3,15 +3,13 @@
 <div>  
   <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
 
-### Hi everyone
+### Hello everyone,
   
-BlockChain enthusiast and software developer, Living in Recife - Pernambuco.
-I have worked for companies such as Accenture and the Government of Pernambuco Secretariat for Women.
-Like to get involved in events and communities, especially those that are focused on including people in technology, my hobbies are running and cycling.
-I am a pragmatic, empathetic person, focused on results and of course always open to new ideas.
-In addition to programming languages, I've always been interested in data and information. Because of this, I decided to study Database, which I will be graduating in March 2023.
+I'm a beginner in the tech woeld, Living in Recife - Pernambuco.
+I have worked at the same company since i started to work, first as a supply chain analist, and since 2023 i have worked as Businees partner IT.
+In 2022 i beagan to learn SQL and doing some taks, reports and Projets using T-SQL and Poewr BI, and i have plans to learn more and more.
+
+I'm a shy person but love work in groups, and i love learn new things ans solve problens and puzzles.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorblandes/)](https://www.linkedin.com/in/higorblandes/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=email&logoColor=white&link=mailto:higorblands@hotmail.com)](mailto:higorblands@hotmail.com)
-</div>  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/j%C3%BAlio-simas-842634161/)](https:/https://www.linkedin.com/in/j%C3%BAlio-simas-842634161/)
