@@ -3,10 +3,7 @@
 
 ### Hello everyone,
   
-I'm a beginner in the tech world and who loves japanese and nerd culture. Now i'm Living in Recife-PE,Brazil.
-I have worked at the same company since i started to work, first as a supply chain analist, and since 2023 i have worked as Business partner IT.
-In 2022 i began to learn SQL and doing some tasks, reports and Projets using T-SQL and Power BI. 
-I have plans to learn more and more, begining this year that i will begin to study java.
+As a lover of Japanese and nerd culture, I'm a beginner in the tech world, currently based in Recife-PE, Brazil. I've been working at the same company since I started my career, initially as a Supply Chain Analyst, and now as a Business Partner for IT. Recently, I began learning SQL and have been involved in several tasks, reports, and projects using T-SQL and Power BI.
 
 I'm a shy person but love work in groups, and i love learn new things ans solve problens and puzzles.
 
