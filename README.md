@@ -6,4 +6,3 @@ As a lover of Japanese and nerd culture, I'm a beginner in the tech world, curre
 I'm a shy person but love work in groups, and i love learn new things ans solve problems and puzzles.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://[www.linkedin.com/in/j%C3%BAlio-simas/](https://www.linkedin.com/in/j%C3%BAlio-simas-842634161/)
