@@ -1,9 +1,11 @@
 
 ### Hello everyone,
-  
-As a lover of Japanese and nerd culture, I'm a beginner in the tech world, currently based in Recife-PE, Brazil. I've been working at the same company since I started my career, initially as a Supply Chain Analyst, and now as a Business Partner for IT. Recently, I began learning SQL and have been involved in several tasks, reports, and projects using T-SQL and Power BI.
 
-I'm a shy person but love work in groups, and i love learn new things ans solve problems and puzzles.
+I'm a passionate enthusiast of both Japanese culture and the vibrant world of nerd culture. My journey into the tech realm is relatively recent, and I'm currently based in Recife, PE, Brazil. My career began at the same company where I've grown from a Supply Chain Analyst to my current role as a Business Partner within the IT department.
+
+My journey into IT started with a fascination for SQL, and I've since been immersed in crafting reports, tackling complex problems, and finding creative solutions through this powerful tool.
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%BAlio-simas-842634161/)](https://www.linkedin.com/in/j%C3%BAlio-simas-842634161/)
 
